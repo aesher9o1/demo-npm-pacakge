@@ -1,0 +1,13 @@
+{
+  "name": "@quillbot/demo-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ar-login": "npx google-artifactregistry-auth --repo-config=./.npmrc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
